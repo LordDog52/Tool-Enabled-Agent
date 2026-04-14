@@ -1,0 +1,13 @@
+psycopg_pool
+psycopg
+dotenv
+uvicorn
+fastapi
+requests
+python-multipart
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+accelerate
+protobuf
+rapidfuzz
